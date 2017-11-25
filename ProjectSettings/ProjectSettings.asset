@@ -528,7 +528,7 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: xrgj-ginza
   metroPackageVersion: 
-  metroCertificatePath: C:\work\unity\HoloLens\xrgj-ginza\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets/WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany

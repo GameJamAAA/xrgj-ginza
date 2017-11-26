@@ -80,11 +80,11 @@ namespace HoloToolkit.Unity.InputModule
 #endif
             }
 
-            CurrentDisplayType = DisplayType.Opaque;
-            ApplySettingsForOpaqueDisplay();
+            CurrentDisplayType = DisplayType.Transparent;
+            ApplySettingsForTransparentDisplay();
             if (OnDisplayDetected != null)
             {
-                OnDisplayDetected(DisplayType.Opaque);
+                OnDisplayDetected(DisplayType.Transparent);
             }
         }
 
